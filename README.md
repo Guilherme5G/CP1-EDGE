@@ -55,15 +55,23 @@ Arthur de Sousa Pereira - RM: 561380
 
 Yan Breno Barutti Conceição - RM: 566412
 
-### 💻 Linguagens utilizadas
+### 💻 Tecnologias utilizadas
 
 <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="C++"
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+     alt="ARDUINO IDE" 
+    title="ARDUINO IDE"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -72,4 +80,12 @@ Yan Breno Barutti Conceição - RM: 566412
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+     alt="GITHUB" 
+    title="GITHUB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
