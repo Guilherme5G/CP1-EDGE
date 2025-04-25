@@ -45,7 +45,18 @@ Este projeto utiliza os seguintes componentes e bibliotecas:
 3. Insira o codigo para a IDE e faça o upload para o seu Arduino.
 4. Observe o comportamento dos LEDs e do buzzer conforme a luminosidade medida pelo LDR.
 
-### Nome Integrantes e RM
+## ♦ Representação do projeto
+
+<img 
+    align="center" 
+    alt="Sistema de Monitoramento" 
+    title="Sistema de Monitoramento"
+    width="600px" 
+    style="padding-right: 10px;" 
+    src="Demetrius.png"
+/>
+
+## Nome Integrantes e RM
 
 Guilherme de Araújo Moreira - RM: 561848
 
@@ -67,7 +78,7 @@ Yan Breno Barutti Conceição - RM: 566412
 />
 <img 
     align="left" 
-     alt="ARDUINO IDE" 
+    alt="ARDUINO IDE" 
     title="ARDUINO IDE"
     width="30px" 
     style="padding-right: 10px;" 
@@ -75,7 +86,7 @@ Yan Breno Barutti Conceição - RM: 566412
 />
 <img 
     align="left" 
-     alt="GIT" 
+    alt="GIT" 
     title="GIT"
     width="30px" 
     style="padding-right: 10px;" 
@@ -83,7 +94,7 @@ Yan Breno Barutti Conceição - RM: 566412
 />
 <img 
     align="left" 
-     alt="GITHUB" 
+    alt="GITHUB" 
     title="GITHUB"
     width="30px" 
     style="padding-right: 10px;" 
