@@ -34,16 +34,14 @@ Este projeto utiliza os seguintes componentes e bibliotecas:
 
 ### 2. Montagem do Circuito:
 1. Conecte o barramento positivo da protoboard ao 5V do Arduino.
-2. Conecte o barramento negativo (terra) da protoboard ao GND do Arduino.
+2. Conecte o barramento negativo da protoboard ao GND do Arduino.
 3. Conecte o LED vermelho no pino digital 13 do Arduino.
-4. Conecte o LED amarelo no pino digital 13 do Arduino.
-5. Conecte o LED verde no pino digital 13 do Arduino.
-6. Coloque um resistor entre o terminal positivo (ânodo) de cada LED e o fio que vai para o pino do Arduino.
-7. Ligue o terminal positivo do buzzer no pino digital 9 do Arduino.
-8. O terminal negativo vai para o GND (terra).
-9. Um lado do LDR conecta ao 5V do Arduino.
-10. O outro lado do LDR conecta ao pino analógico A5.
-11. Entre o pino A5 e o GND, adicione um resistor de 10kΩ.
+4. Conecte o LED amarelo no pino digital 12 do Arduino.
+5. Conecte o LED verde no pino digital 11 do Arduino.
+6. Coloque um resistor entre o terminal positivo de cada LED e o fio que vai para o pino do Arduino.
+7. Ligue o terminal positivo do buzzer no pino digital 9 do Arduino e o terminal negativo no GND.
+8. Um lado do LDR conecta ao 5V do Arduino e o outro lado do LDR conecta ao pino analógico A5.
+9. Entre o pino A5 e o GND, adicione um resistor de 10kΩ.
 
 ### 3. Como Rodar o Código:
 1. Conecte o Arduino ao computador e abra a IDE do Arduino.
