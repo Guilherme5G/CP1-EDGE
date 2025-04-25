@@ -105,6 +105,8 @@ Yan Breno Barutti Conceição - RM: 566412
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
 />
 
+<br>
+
 ## ♦ Links do projeto:
 
 - 🔗 **[Simulação no Tinkercad](https://www.tinkercad.com/things/lnv40Pfhdvb/editel?sharecode=u6YwSwb5WyDxk4Z5SuAK9gVhH4bT4Hodkuv0X9l-PTw)**
