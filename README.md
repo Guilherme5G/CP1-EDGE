@@ -107,8 +107,5 @@ Yan Breno Barutti Conceição - RM: 566412
 
 ## ♦ Links do projeto:
 
-Link de simulação do projeto no Tinkercad:
-https://www.tinkercad.com/things/lnv40Pfhdvb/editel?sharecode=u6YwSwb5WyDxk4Z5SuAK9gVhH4bT4Hodkuv0X9l-PTw
-
-Link do vídeo explicativo do projeto:
-https://youtu.be/q25aC6iUQzs
+- 🔗 **[Simulação no Tinkercad](https://www.tinkercad.com/things/lnv40Pfhdvb/editel?sharecode=u6YwSwb5WyDxk4Z5SuAK9gVhH4bT4Hodkuv0X9l-PTw)**
+- 🎥 **[Vídeo explicativo](https://youtu.be/q25aC6iUQzs)**
